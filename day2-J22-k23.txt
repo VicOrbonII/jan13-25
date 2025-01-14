@@ -367,7 +367,7 @@ config t
 
 @P2
 conf t
- Int e/0
+ Int e1/0
  no shut
  ip add dhcp
 end
